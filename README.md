@@ -1,14 +1,15 @@
 # 🌟 Beyond Career – Landing Page
 
 A responsive, accessible, and visually modern landing page designed to represent **Beyond Career** — a student-led platform launched from IIT Kharagpur offering career guidance, mentorship, and community support.
-##📄 Documentation Package
-###🎨 Design Rationale (50 words)
+
+## 📄 Documentation Package
+### 🎨 Design Rationale (50 words)
 The design embraces a clean, accessible layout with strong visual hierarchy. A blue-dominant color palette fosters trust, paired with modern ‘Inter’ typography for clarity. Responsive grid systems, scroll effects, and floating labels ensure intuitive navigation and a friendly mobile experience, emphasizing simplicity, professionalism, and real-time engagement.
 
-###⚙️ Technical Documentation (30 words)
+### ⚙️ Technical Documentation (30 words)
 Built using semantic HTML5, modern CSS3, and vanilla JavaScript for performance and browser compatibility. Challenges like carousel state and counter accuracy were solved with modular scripts. Code is optimized, lightweight, and accessible.
 
-###🚀 Deployment Guide (20 words)
+### 🚀 Deployment Guide (20 words)
 Code deployed via GitHub + Vercel for instant builds and HTTPS. Live at: https://your-vercel-link.vercel.app — tested across devices and browsers.
 
 ## 🚀 Live Demo
