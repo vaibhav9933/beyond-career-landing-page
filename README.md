@@ -10,7 +10,7 @@ The design embraces a clean, accessible layout with strong visual hierarchy. A b
 Built using semantic HTML5, modern CSS3, and vanilla JavaScript for performance and browser compatibility. Challenges like carousel state and counter accuracy were solved with modular scripts. Code is optimized, lightweight, and accessible.
 
 ### 🚀 Deployment Guide (20 words)
-Code deployed via GitHub + Vercel for instant builds and HTTPS. Live at: https://your-vercel-link.vercel.app — tested across devices and browsers.
+Code deployed via GitHub + Vercel for instant builds and HTTPS. Live at: https://beyond-career-landing-page.vercel.app/ — tested across devices and browsers.
 
 ## 🚀 Live Demo
 
