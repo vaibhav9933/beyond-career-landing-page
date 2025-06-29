@@ -4,8 +4,7 @@ A responsive, accessible, and visually modern landing page designed to represent
 
 ## 🚀 Live Demo
 
-👉 [View Live Website](https://your-vercel-link.vercel.app)  
-_Replace this with your actual Vercel link after deployment_
+👉 [View Live Website](https://beyond-career-landing-page.vercel.app/)  
 
 ---
 
